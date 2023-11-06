@@ -1,2 +1,2 @@
 # Angular-Spectrum-Rearrangement
-The open-source code will be provided upon acceptance.
+The open-source code will be provided upon acceptance of the paper.
