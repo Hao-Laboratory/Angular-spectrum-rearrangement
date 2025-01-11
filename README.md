@@ -26,10 +26,10 @@ VectorialDiffraction_test.m
 
 If you use this code and find our work valuable, please cite our paper.
 ```
-@article{Hu2024DiffractionModelingBetween,
+@article{Hu2025DiffractionModelingBetween,
   title={Diffraction modeling between arbitrary planes using angular spectrum rearrangement},
   author={Hu, Yiwen and Liu, Xin and Liu, Xu and Hao, Xiang},
-  year={2024},
+  year={2025},
   journal={Optica},
   volume = {12},
   number = {1},
