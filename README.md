@@ -33,7 +33,7 @@ If you use this code and find our work valuable, please cite our paper.
   journal={Optica},
   volume = {12},
   number = {1},
-  pages = {},
+  pages = {39--45},
   doi={10.1364/OPTICA.544604},
 }
 ```
