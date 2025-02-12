@@ -1,7 +1,7 @@
 # Angular Spectrum Rearrangement
 This repository provides the official open-source code of the following paper:
 
-**[Diffraction modeling between arbitrary non-parallel planes using angular spectrum rearrangement](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.544604), Optica, 2024**\
+**[Diffraction modeling between arbitrary non-parallel planes using angular spectrum rearrangement](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.544604), Optica, 2025**\
 Yiwen Hu<sup>\*</sup>, Xin Liu<sup>\*\,✉</sup>, Xu Liu, and Xiang Hao<sup>✉</sup>\
 <sup>\*</sup>Equal contributors\
 <sup>✉</sup>Correspondence: Prof. Hao (www.haoxiang.ac.cn) and Dr. Liu (https://liux2018.github.io).  
