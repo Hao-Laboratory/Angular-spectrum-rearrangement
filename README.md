@@ -1,4 +1,4 @@
-# Angular Spectrum Rearrangement
+# Angular spectrum rearrangement
 This repository provides the official open-source code of the following paper:
 
 **[Diffraction modeling between arbitrary non-parallel planes using angular spectrum rearrangement](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.544604), Optica, 2025**\
